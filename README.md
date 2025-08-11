@@ -13,7 +13,7 @@ https://iandrestm.github.io/noticias-frontend/
 
 ## Descripción del proyecto
 
-Master en CSS – Noticias Front-End es una página estática creada exclusivamente con **HTML** y **CSS**, que presenta noticias sobre tecnologías front-end. Cuenta con una barra de navegación, formularios de acceso y una sección central con noticias y estilos claros y elegantes.
+Master en CSS – Noticias Front-End es una página estática creada exclusivamente con **HTML** y **CSS**, que presenta noticias sobre tecnologías front-end. Cuenta con una barra de navegación, formularios de acceso, una sección central con noticias, estilos claros y elegantes.
 
 ## Tecnologías usadas
 
